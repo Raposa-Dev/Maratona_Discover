@@ -1,28 +1,17 @@
 const Modal = {
     open() {
-        //abrir modal
-        // Adicionar a class active ao modal
         document
             .querySelector('.modal-overlay')
             .classList
             .add('active')
     },
     close() {
-        //fechar o modal
-        //remover a class active do modal
         document
             .querySelector('.modal-overlay')
             .classList
             .remove('active')
     }
 }
-
-
-
-// eu preciso somar as entradas
-// depois eu preciso somar as saidas
-// remover das entradas o valor das saidas
-// assim, eu tereei o total
 
 const Storage = {
     get() {
