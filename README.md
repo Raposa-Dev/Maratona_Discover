@@ -18,7 +18,7 @@ Maratona prática consolidação dos conceitos aprendidos nas trilhas e cursos d
 
 - CPU;
     
-    Intel: Core i3-530 
+    Intel: Core i3-530; 
     
     RAM: 2 GB RAM;
     
@@ -59,7 +59,7 @@ click em open with live server;
 - Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
 - Faça push para a sua branch: `git push origin minha-feature` ;
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch;
 
 
 
@@ -69,7 +69,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ****MIT License****
 
-Veja o arquivo License para mais detalhes.
+Veja o arquivo License para mais detalhes;
 
 Pertence a Rocketseat;
 
