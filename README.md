@@ -63,7 +63,7 @@ Clicar no index.html com o mouse, usando o botão direito, e abrir com  seu nave
 
 click em open with live server;</p>
 
-<p>Sublime Text :</p>
+<p>SUBLIME TEXT :</p>
 
 [LiveReload](https://packagecontrol.io/packages/LiveReload);
 
